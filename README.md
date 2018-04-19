@@ -6,7 +6,9 @@ title:  'Portfolio'
 ## author
 
 id: funwarioisii
+
 岩手県立大学　M1
+
 ディープラーニングから機械学習を学び始めた
 
 
