@@ -23,19 +23,16 @@ id: funwarioisii
 
 ## 制作物や卒論テーマ
 
- - [コーデ提案ボット「絶対服装教えるマン」](https://github.com/fashion-monster/LineBot)
-
+ - [PBL 2017 コーデ提案ボット「絶対服装教えるマン」](https://github.com/fashion-monster/LineBot)
+ - [PBL 2018 本を読んだ後の感想を言い合う場所](https://github.com/yorumizi)
  - マルチモーダル学習とデータオーギュメントを少し……
-
  - [Gist](https://gist.github.com/funwarioisii)
 
 
 ## 所持資格
 
  - 普通自動車免許
-
  - 基本情報技術者
-
  - 危険物取扱者丙種
 
 
@@ -47,8 +44,9 @@ id: funwarioisii
 - Kotlin :少しわかる
 - Java Script (Node.js) :ほんの少しわかる
 
-### フレームワーク
+### Webフレームワーク(使う順)
 - Flask (Python)
+- Falcon(Python)
 - Android (Kotlin)
 - Spring Boot (Java)
 - Bottle (Python)
@@ -61,11 +59,11 @@ id: funwarioisii
 - nv-bluetooth (Java)
 
 ### その他よく使うもの
-- Docker/nvidia-docker
+- Docker / nvidia-docker / Kubernetes
 - Ubuntu
 - Git / GitHub
 - Jupyter Notebook / Lab
 - Redis
 - Firebase
-- Google Compute Engine
-- Slack, Trello
+- Google Compute Engine / Google Kubernetes Engine
+- Slack, Trello, Kibela
