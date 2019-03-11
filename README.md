@@ -19,13 +19,13 @@ id: funwarioisii
 
  * アジャイル開発
 
- * 出会い系
 
 ## 制作物や卒論テーマ
 
  - [PBL 2017 コーデ提案ボット「絶対服装教えるマン」](https://github.com/fashion-monster/LineBot)
  - [PBL 2018 本を読んだ後の感想を言い合う場所](https://github.com/yorumizi)
  - マルチモーダル学習とデータオーギュメント
+ - 強化学習とナビゲーション
  - [Gist](https://gist.github.com/funwarioisii)
 
 ## 研究
@@ -73,3 +73,19 @@ id: funwarioisii
 - Firebase
 - Google Compute Engine / Google Kubernetes Engine
 - Slack, Trello, Kibela
+
+## その他
+- 第11回東北情報セキュリティ勉強会 2015 / 01
+- アイーナ情報システム塾 GitHubとSlackによるチームプログラミング入門コース TA 2017 / 09
+- アイーナ情報システム塾 Python入門コース TA 2017 / 10
+- アイーナ情報システム塾 機械学習プログラミング入門コース TA 2017 / 12
+- enPiT BizSysD分野ワークショップ 北海道・東北合同発表会 入賞 2017 / 12 
+- 学内PBL成果発表会 入賞 2018 / 02
+- [TDDyyχ in 岩手県立大学](https://gist.github.com/funwarioisii/c0fdb74292775f094efa358d221a1cfd) 2018 / 04
+- Micro Hardening in 弘前 2018 / 05
+- Python BootCamp in 岩手 TA 2018 / 06
+- TDDyyχ 2018 / 08
+- 情報科学技術フォーラム 2018 / 09
+- Cookpad Summer Internship 5 DAY R&D 2018 / 08
+- Agile Vietnam Conference LT 2018 / 11
+- Computer and Industrial Engineering 2018 / 12
