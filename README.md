@@ -3,13 +3,6 @@ title:  'Portfolio'
 ...
 
 
-## IAM
-
-id: funwarioisii
-
-クックパッドのエンジニア
-
-
 ## 興味分野
 
 - 機械学習とその応用
