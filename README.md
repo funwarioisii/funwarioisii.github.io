@@ -3,21 +3,17 @@ title:  'Portfolio'
 ...
 
 
-## author
+## IAM
 
 id: funwarioisii
 
-岩手県立大学　M1
-
-ディープラーニングから機械学習を学び始めた
-
+クックパッドのエンジニア
 
 
 ## 興味分野
 
- * 機械学習とその応用
-
- * アジャイル開発
+- 機械学習とその応用
+- サービス開発とその周辺
 
 
 ## 制作物や卒論テーマ
@@ -33,6 +29,7 @@ id: funwarioisii
  - [環境センシングを活用したマルチモーダル学習](https://www.gakkai-web.net/gakkai/ipsj/80program/data/pdf/7M-02.html)
  - [BLEビーコンを利用したマルチモーダル畳み込みニューラルネットワーク
 ](https://www.ipsj.or.jp/event/fit/fit2018/FIT2018_program_web/data/html/abstract/CH-004.html)
+- [逆強化学習によるナビゲーションのパーソナライズ](https://www.ipsj.or.jp/event/taikai/82/ipsj_web2020/data/pdf/1S-03.html)
 
 ## 所持資格
 
@@ -45,34 +42,9 @@ id: funwarioisii
 システム構築する際に使ったものなど
 
 ### 言語
-- Python 3.6 :だいたい分かる
-- Kotlin :少しわかる
-- Java Script (Node.js) :ほんの少しわかる
-
-### Webフレームワーク(使う順)
-- Flask (Python)
-- Falcon(Python)
-- Android (Kotlin)
-- Spring Boot (Java)
-- Bottle (Python)
-
-### よく使うライブラリ
-- TensorFlow (Python)
-- Edward(Python)
-- Pandas (Python)
-- numpy,scipy (Python)
-- Fuel (Kotlin)
-- nv-bluetooth (Java)
-
-### その他よく使うもの
-- Docker / nvidia-docker / Kubernetes
-- Ubuntu
-- Git / GitHub
-- Jupyter Notebook / Lab
-- Redis
-- Firebase
-- Google Compute Engine / Google Kubernetes Engine
-- Slack, Trello, Kibela
+- Kotlin / Ruby : 結構好き
+- Python : よく使う
+- JavaScript / TypeScipt / Dart / Go : 時々使う
 
 ## その他
 - 第11回東北情報セキュリティ勉強会 2015 / 01
